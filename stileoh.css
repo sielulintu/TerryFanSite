@@ -1,0 +1,55 @@
+body { 
+background-color: blanchedalmond;
+ text-align: center;
+background-image: url(jesusthegreeatt.png);
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
+}
+h1 {
+
+}
+p {
+   color: darkkhaki;
+}
+
+a:link {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: purple;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+table, th, td {
+  border: 4px; px solid black;
+  border-radius: 10px;
+  border-style: ridge;
+  border-spacing: 15px;
+  
+}
+
+th, td {
+ background-color: cornflowerblue;
+ border-color: cyan;
+  padding-top: 9px;
+  padding-bottom: 10px;
+  padding-left: 11px;
+  padding-right: 12px;
+}
